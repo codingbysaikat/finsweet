@@ -1,0 +1,32 @@
+/*-----------------------------------*\
+  #style.css
+\*-----------------------------------*/
+
+/**
+ * copyright 2022 codingbysaikat
+ */
+
+
+/*-----------------------------------*\
+  #CUSTOM PROPERTY
+\*-----------------------------------*/
+:root{
+  /**
+   * colors
+  */
+ --main-color:#232536;
+ --btn-color: #FFD050;
+ --btn-hover:#EDC14A;
+ --purple:#592EA9;
+ --dark-gray:#4C4C4C;
+ --medium-grey:#6D6E76;
+ --light-grey:#F4F4F4;
+ --lavender:#F4F0F8;
+ --light-yellow:#FBF6EA;
+ 
+/**
+   * typography
+*/
+--ff-sen:'Sen';
+--ff-inter:'Inter';
+}
